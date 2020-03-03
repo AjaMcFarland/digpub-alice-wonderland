@@ -4,5 +4,10 @@
     overflow: hidden;
 }
 img {
-    width:60%;
+    width:50%;
 }
+
+h2, h3, figure {
+    text-align: center;
+}
+
